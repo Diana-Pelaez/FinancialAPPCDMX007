@@ -111,7 +111,7 @@ Inspección de problemas potenciales.
 
 **Hallazgos de testeo en campo**
 
-![Hábitos de ahorro](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Hábitos_de_ahorro.jpg)
+![Hábitos de ahorro](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/H%C3%A1bitos_de_ahorro.jpg)
 
 ## Observación
 
