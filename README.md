@@ -32,14 +32,14 @@ Aquí el [contexto del proyecto](https://github.com/SegamanDI/FinancialAPPCDMX00
 
 ### Análisis de data 
 
-![Análisis de data](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Análisis_de_data.jpg)
+![Análisis de data](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Análisis_de_data.jpg)
 
 Data:
 [Data](https://docs.google.com/spreadsheets/d/1e9WoTgGdmj8WD4cB2DULiVj8XZcgeEriqoiVdTlq7Lc/edit#gid=1292037545)
 
 ### Posible solución del problema actual
 
-![Solución del problema actual](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Solución_del_problema_actual)
+![Solución del problema actual](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Solución_del_problema_actual.jpg)
 
 ### Evaluación Heurística
 
@@ -99,25 +99,25 @@ Inspección de problemas potenciales.
 
 ![Benchmark01](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/01.jpg)
 
-![Benchmark02](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/02.jpg)
+![Benchmark02](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/02.jpg)
 
-![Benchmark03](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/03.jpg)
+![Benchmark03](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/03.jpg)
 
 **Benchmark Gains:**
 
-![Benchmark Gains](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Benchmark_Gains.jpg)
+![Benchmark Gains](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Benchmark_Gains.jpg)
 
 ## Entrevistas y testing
 
 **Hallazgos de testeo en campo**
 
-![Hábitos de ahorro](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Hábitos_de_ahorro.jpg)
+![Hábitos de ahorro](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Hábitos_de_ahorro.jpg)
 
 ## Observación
 
 **Testeo de usabilidad de la app financiera**
 
-![Testeo de usabilidad](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Testeo_de_usabilidad.jpg)
+![Testeo de usabilidad](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Testeo_de_usabilidad.jpg)
 
 **Audios App Financiera**
 
@@ -127,7 +127,7 @@ Inspección de problemas potenciales.
 
 ### Objetivos del cliente (Banco)
 
-![Objetivos del cliente](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Objetivos_del_cliente.jpg)
+![Objetivos del cliente](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Objetivos_del_cliente.jpg)
 
 - Definir la dirección de la aplicación.
 - Atraer nuevos clientes.
@@ -140,24 +140,24 @@ Inspección de problemas potenciales.
 
 ###  Objetivos del usuario
 
-![Objetivos del usuario](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Objetivos_del_usuario.jpg)
+![Objetivos del usuario](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Objetivos_del_usuario.jpg)
 
 ### Definición de User Persona
 
-![UserPersona](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/UserPersona.jpg)
+![UserPersona](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/UserPersona.jpg)
 
 #### Barreras conductuales de ahorrar para el futuro.
 
 **Se han definido las siguientes problemáticas:**
 
-![Barreras conductuales de ahorrar para el futuro.](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Conclusiones_para_el_ahorro.jpg)
+![Barreras conductuales de ahorrar para el futuro.](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Conclusiones_para_el_ahorro.jpg)
 
 Referencia: 
 [Referencia](http://www.ideas42.org/wp-content/uploads/2018/11/I42-1046_MetLifeLatAm_paper_SPA_Final.pdf)
 
 #### Síntesis de resultados
 
-![Síntesis de resultados](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Síntesis_de_resultados.jpg)
+![Síntesis de resultados](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Síntesis_de_resultados.jpg)
 
 ### Historias de Usuario
 
@@ -171,9 +171,9 @@ Referencia:
 
 ## Reto de diseño 
 
-[Encuesta. Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Encuesta_Reto_de_diseño.jpg)
+[Encuesta. Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Encuesta_Reto_de_diseño.jpg)
 
-![Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Reto_de_diseño.jpg)
+![Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Reto_de_diseño.jpg)
 
 ## Prototipo de alta fidelidad
 
