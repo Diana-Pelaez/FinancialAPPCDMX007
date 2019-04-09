@@ -25,18 +25,19 @@ Esta nueva propuesta de diseño incluye análisis de datos, investigación de ca
 
 Aquí el [contexto del proyecto](https://github.com/SegamanDI/FinancialAPPCDMX007) y el [Prototipo navegable](https://marvelapp.com/e9h245e) previo a la iteración del producto.
 
-### Objetivos del cliente (Banco)
 
-* Definir la dirección de la aplicación.
-* Atraer nuevos clientes.
-* Descubrir el perfil de usuarios (cuál es su objetivo de ahorro).
-* Usuarios con números positivos en su cuenta bancaria.
-* App fácil, rápida, moderna y confiable. 
-* Incluir Facebook Ads o no
-* Mayor seguridad.
-* App para la nueva generación usándo productos financieros.
+##  Problemas encontrados tanto a nivel de negocio como a nivel de usuario
 
-## Problemas encontrados tanto a nivel de negocio como a nivel de usuario
+### Análisis de data 
+
+![Análisis de data](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Análisis_de_data.jpg)
+
+Data:
+[Data](https://docs.google.com/spreadsheets/d/1e9WoTgGdmj8WD4cB2DULiVj8XZcgeEriqoiVdTlq7Lc/edit#gid=1292037545)
+
+### Posible solución del problema actual
+
+![Solución del problema actual](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Solución_del_problema_actual)
 
 ### Evaluación Heurística
 
@@ -92,93 +93,90 @@ Inspección de problemas potenciales.
   - En registro de cuenta no se visualizan los terminos y condiciones. 
   - Ayudaría un instructivo de pasos para el primer ingreso a la app.
 
+### Benchmark app financieras
 
-### Hallazgos
+![Benchmark01](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/01.jpg)
 
-![Hallazgos](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Hallazgos.jpg)
+![Benchmark02](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/02.jpg)
 
-#### Barreras conductuales de ahorrar para el futuro.
+![Benchmark03](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/03.jpg)
 
-![Barreras conductuales de ahorrar para el futuro.](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Conclusiones_para_el_ahorro.jpg)
+**Benchmark Gains:**
 
-Referencia: [Referencia](http://www.ideas42.org/wp-content/uploads/2018/11/I42-1046_MetLifeLatAm_paper_SPA_Final.pdf)
+![Benchmark Gains](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Benchmark_Gains.jpg)
+
+## Entrevistas y testing
+
+**Hallazgos de testeo en campo**
+
+![Hábitos de ahorro](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Hábitos_de_ahorro.jpg)
+
+## Observación
+
+**Testeo de usabilidad de la app financiera**
+
+![Testeo de usabilidad](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Testeo_de_usabilidad.jpg)
+
+**Audios App Financiera**
+
+[Audios](https://drive.google.com/drive/folders/1-4WKxbFVgi7ZSqMKZp_2GhXZwmVm1FeE?usp=sharing)
+
+## Objetivos 
+
+### Objetivos del cliente (Banco)
+
+![Objetivos del cliente](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Objetivos_del_cliente.jpg)
+
+- Definir la dirección de la aplicación.
+- Atraer nuevos clientes.
+- Descubrir el perfil de usuarios (cuál es su objetivo de ahorro).
+- Usuarios con números positivos en su cuenta bancaria.
+- App fácil, rápida, moderna y confiable. 
+- Incluir Facebook Ads o no
+- Mayor seguridad.
+- App para la nueva generación usándo productos financieros.
+
+###  Objetivos del usuario
+
+![Objetivos del usuario](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Objetivos_del_usuario.jpg)
 
 ### Definición de User Persona
 
 ![UserPersona](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/UserPersona.jpg)
 
+#### Barreras conductuales de ahorrar para el futuro.
 
+![Barreras conductuales de ahorrar para el futuro.](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Conclusiones_para_el_ahorro.jpg)
 
-* Conseguir sus metas y objetivos.
-* Control y visibilidad de sus finanzas. 
-* Visualizar el comportamiento De sus gastos y entradas (principalmente las variables).
-* Uso de herramientas fáciles y efectivas.
-
-### Historias de Usuarios
-
-Saber en qué gastan más 
-Conciencia de ahorro (cuánto, qué y para qué)
-Necesita un desglose específico de gastos
-
-
-
-
-### Test con usuarios
-
-
-
-
-
-
-
-
-
-## Recomendaciones de próximos pasos para el banco con respecto al app
-
-__Con base a lo anterior, se han definido las siguientes problemáticas:__
-
-
-
-  * Qué modificaciones se deberían hacer
-
-Conclusiones: 
-
-* No existe plataforma Android (sustento de data).
-* Facebook Ads con poco impacto, (pocas descargas).
-
-
-
-
-
-
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-
-  
-## Prototipo de alta fidelidad.
-
-#### Link de  Marvel.
-
-
-
-## Video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
-
-
-
-#### Entrevistas y testing
-
-#### Observación
+Referencia: 
+[Referencia](http://www.ideas42.org/wp-content/uploads/2018/11/I42-1046_MetLifeLatAm_paper_SPA_Final.pdf)
 
 #### Síntesis de resultados
 
-#### Flujos de usuario
+![Síntesis de resultados](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Síntesis_de_resultados.jpg)
 
-#### Arquitectura de la información
+### Historias de Usuario
 
-#### Prototyping
+1. Yo como usuario quiero tener una app que me permita tener un control financiero para lograr mis planes futuros.
 
-#### Business mindset
+2. Yo como usuario quiero emprender acciones de ahorro en el presente para mis planes a futuro.
 
-#### Visual Design
+3. Yo como usuario quiero ahorrar fácil y sin esfuerzo.
+
+## Recomendaciones de próximos pasos para el banco con respecto al app
+
+**Se han definido las siguientes problemáticas:__
+
+### Reto de diseño 
+
+[Encuesta. Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Encuesta_Reto_de_diseño.jpg)
+
+![Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Reto_de_diseño.jpg)
+
+## Prototipo de alta fidelidad
+
+[Prototipo de alta fidelidad](https://marvelapp.com/b9h7fa7/screen/55455310)
+
+## Video en Loom
+
+
