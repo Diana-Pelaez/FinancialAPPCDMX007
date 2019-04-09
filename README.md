@@ -4,9 +4,11 @@
 
 - [Preámbulo](#Preámbulo)
 - [Introducción](#Introducción) 
-- [Contexto](#Contexto) 
-- [UX Design](#UXDesign)
-- [Objetivos del cliente](#Objetivos-del-cliente) 
+- [Entrevistas y testing](#Entrevistas-y-testing) 
+- [Observación](#Observación) 
+- [Objetivos](#Objetivos) 
+- [Reto de diseño](#Reto-de-diseño) 
+- [Prototipo de alta fidelidad](#Prototipo-de-alta-fidelidad) 
 
 
 ## Preámbulo
@@ -146,6 +148,8 @@ Inspección de problemas potenciales.
 
 #### Barreras conductuales de ahorrar para el futuro.
 
+**Se han definido las siguientes problemáticas:**
+
 ![Barreras conductuales de ahorrar para el futuro.](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Conclusiones_para_el_ahorro.jpg)
 
 Referencia: 
@@ -163,11 +167,9 @@ Referencia:
 
 3. Yo como usuario quiero ahorrar fácil y sin esfuerzo.
 
-## Recomendaciones de próximos pasos para el banco con respecto al app
+**Recomendaciones de próximos pasos para el banco con respecto al app:**
 
-**Se han definido las siguientes problemáticas:__
-
-### Reto de diseño 
+## Reto de diseño 
 
 [Encuesta. Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Encuesta_Reto_de_diseño.jpg)
 
