@@ -107,7 +107,7 @@ Referencia: [Referencia](http://www.ideas42.org/wp-content/uploads/2018/11/I42-1
 
 ![UserPersona](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/UserPersona.jpg)
 
-### Objetivos del usuario
+
 
 * Conseguir sus metas y objetivos.
 * Control y visibilidad de sus finanzas. 
