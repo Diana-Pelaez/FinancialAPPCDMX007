@@ -32,14 +32,13 @@ Aquí el [contexto del proyecto](https://github.com/SegamanDI/FinancialAPPCDMX00
 
 ### Análisis de data 
 
-![Análisis de data](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Análisis_de_data.jpg)
+![Análisis de data](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/An%C3%A1lisis_de_data.jpg)
 
-Data:
 [Data](https://docs.google.com/spreadsheets/d/1e9WoTgGdmj8WD4cB2DULiVj8XZcgeEriqoiVdTlq7Lc/edit#gid=1292037545)
 
 ### Posible solución del problema actual
 
-![Solución del problema actual](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Solución_del_problema_actual.jpg)
+![Solución del problema actual](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Soluci%C3%B3n_del_problema_actual.jpg)
 
 ### Evaluación Heurística
 
@@ -146,18 +145,17 @@ Inspección de problemas potenciales.
 
 ![UserPersona](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/UserPersona.jpg)
 
-#### Barreras conductuales de ahorrar para el futuro.
+### Barreras conductuales de ahorrar para el futuro.
 
 **Se han definido las siguientes problemáticas:**
 
 ![Barreras conductuales de ahorrar para el futuro.](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Conclusiones_para_el_ahorro.jpg)
 
-Referencia: 
-[Referencia](http://www.ideas42.org/wp-content/uploads/2018/11/I42-1046_MetLifeLatAm_paper_SPA_Final.pdf)
+[Fuente](http://www.ideas42.org/wp-content/uploads/2018/11/I42-1046_MetLifeLatAm_paper_SPA_Final.pdf)
 
 #### Síntesis de resultados
 
-![Síntesis de resultados](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Síntesis_de_resultados.jpg)
+![Síntesis de resultados](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/S%C3%ADntesis_de_resultados.jpg)
 
 ### Historias de Usuario
 
@@ -167,13 +165,13 @@ Referencia:
 
 3. Yo como usuario quiero ahorrar fácil y sin esfuerzo.
 
-**Recomendaciones de próximos pasos para el banco con respecto al app:**
+## Recomendaciones de próximos pasos para el banco con respecto al app:**
 
-## Reto de diseño 
+### Reto de diseño 
 
-[Encuesta. Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Encuesta_Reto_de_diseño.jpg)
+[Encuesta. Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Encuesta_Reto_de_diseño.jpg)
 
-![Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Reto_de_diseño.jpg)
+![Reto de diseño](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/Reto_de_dise%C3%B1o.jpg)
 
 ## Prototipo de alta fidelidad
 
