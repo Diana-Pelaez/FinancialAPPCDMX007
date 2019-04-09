@@ -178,5 +178,5 @@ Inspección de problemas potenciales.
 [Prototipo de alta fidelidad](https://marvelapp.com/b9h7fa7/screen/55455310)
 
 ## Video en Loom
-
+[Prototipo de alta fidelidad](https://www.loom.com/share/3e45efe2facf4ffa860b50270751ae3b)
 
