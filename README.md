@@ -97,7 +97,7 @@ Inspección de problemas potenciales.
 
 ### Benchmark app financieras
 
-![Benchmark01](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/01.jpg)
+![Benchmark01](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/blob/master/Imagenes/01.jpg)
 
 ![Benchmark02](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/02.jpg)
 
