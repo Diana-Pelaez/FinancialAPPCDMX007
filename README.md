@@ -32,7 +32,7 @@ Aquí el [contexto del proyecto](https://github.com/SegamanDI/FinancialAPPCDMX00
 
 ### Análisis de data 
 
-![Análisis de data](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/tree/master/Imagenes/Análisis_de_data.jpg)
+![Análisis de data](https://github.com/Diana-Pelaez/FinancialAPPCDMX007/Imagenes/Análisis_de_data.jpg)
 
 Data:
 [Data](https://docs.google.com/spreadsheets/d/1e9WoTgGdmj8WD4cB2DULiVj8XZcgeEriqoiVdTlq7Lc/edit#gid=1292037545)
